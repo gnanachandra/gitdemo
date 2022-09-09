@@ -1,0 +1,20 @@
+git clone "url"
+create or modify files
+
+git status -> details about files (U,M,A)
+
+git add . -> to add all files to staging area
+git add filename.extension -> 
+git add *.txt -> files with .txt extension will be added
+
+git status -> details about files (U,M,A)
+
+commit 
+
+git commit -m "message(80characters)"
+
+PUSH
+git push
+
+log 
+git log/git log --oneline
